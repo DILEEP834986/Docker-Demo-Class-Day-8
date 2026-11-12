@@ -1,0 +1,4 @@
+Flask==2.3.2
+Werkzeug==2.3.6
+
+##create environment and pip freeze > requirements.txt to freeze this dependencies with version
